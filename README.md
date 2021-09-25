@@ -1,6 +1,6 @@
 # Predicting-New-York-Airbnb-Prices
 
--Data source: Kaggle /n
+-Data source: Kaggle \n
 -Airbnb listing in NYC
 -Public dataset that can also be found on the Airbnb website
 -Number of features: 16
